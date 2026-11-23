@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Smart-TV-OS-Webos-Homebrew-Launcher/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Smart-TV-OS-Webos-Homebrew-Launcher?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Smart-TV-OS-Webos-Homebrew-Launcher/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Smart-TV-OS-Webos-Homebrew-Launcher?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Smart-TV-OS-Webos-Homebrew-Launcher/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Smart-TV-OS-Webos-Homebrew-Launcher?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Smart-TV-OS-Webos-Homebrew-Launcher/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Smart-TV-OS-Webos-Homebrew-Launcher?color=blue" alt="Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Smart-TV-OS-Webos-Homebrew-Launcher/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" alt="License" /></a>
@@ -70,9 +70,9 @@ Explore verified open-source projects for Smart TV operating systems, custom hom
 
 ### Top Open-Source TV Projects by Community Adoption
 
-Repositories are sorted below in **descending order by GitHub star count**. Each badge displays live star counts and directly links to the project's stargazers.
+Repositories are sorted below in **descending order by GitHub Stars_Count**. Each badge displays live Stars_Counts and directly links to the project's stargazers.
 
-| Project & Repository | GitHub Stars (Live Badge) | Primary Stack | Core Description |
+| Project & Repository | GitHub_Stars (Live Badge) | Primary Stack | Core Description |
 | :--- | :---: | :--- | :--- |
 | **[Home Assistant Core](https://github.com/home-assistant/core)** | [![Stars](https://img.shields.io/github/stars/home-assistant/core?style=social&color=white)](https://github.com/home-assistant/core/stargazers) | Python | Open-source home automation system providing deep bidirectional control, power states, app launcher integrations, and media display widgets for LG webOS, Tizen, Android TV, and Apple TV. |
 | **[Jellyfin Server](https://github.com/jellyfin/jellyfin)** | [![Stars](https://img.shields.io/github/stars/jellyfin/jellyfin?style=social&color=white)](https://github.com/jellyfin/jellyfin/stargazers) | C# / .NET | The 100% free software media system backend that serves 4K HDR movies, TV shows, and music directly to custom Smart TV clients without tracking or licensing fees. |
@@ -168,7 +168,7 @@ Contributions, project suggestions, and documentation improvements are welcome!
 
 1. **Fork the repository** to your GitHub account.
 2. **Add or refine an entry** in `README.md` following the established table formats.
-3. Ensure every open-source repository includes its official GitHub link, description, and star badge.
+3. Ensure every open-source repository includes its official GitHub link, description, and Stars_Badge.
 4. Submit a **Pull Request** detailing what you added and why it benefits Smart TV hackers and living-room power users.
 
 ---
